@@ -5,4 +5,4 @@
 5. Balik urutan array dengan menggunakan reverse().
 6. Gabungkan array menjadi kalimat baru menggunakan metode join().
 7. Output kalimat baru.
-8. selesai.
+8. selesai
